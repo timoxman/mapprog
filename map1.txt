@@ -1,0 +1,13 @@
+0,in jail
+1,in the enchanted roundabout,n2,w12
+2,on the mystical high street,w6,e3,s1,n9,a used condom
+3,in the foggy park,w2,n4
+4,outside the rustic Ravensbourne arms,e8,w9
+5,swimming in the Quaggy river,e9,a shinny key
+6,lurking in the council estate,e2,w8,n7,s11,Gangzi
+7,in the urban jungle,s6,e9,n10
+8,near the haunted hilly fields,w4,e6,an old coat
+9,at the creepy train station,s2,w5,e4,n7,a ripped timetable
+10,home in Ellerdale Street,winner
+11,hanging out in the spooky shopping centre,n6,s12
+12,browsing the spine chilling market,n11,e1
