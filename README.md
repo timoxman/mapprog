@@ -4,7 +4,7 @@ a little game to inspire me to learn to code
 The game is set in pictureseque Lewisham (it's better than you think) and you play me, you have to get me home (probably from the pub, 
 although this isn't specified) by walking around the wonderful mystical world of Lewisham (it's up and coming)
 Along the way, find the name of my neighbour's dog, my local pub and park. The aim of the game is to find the name of the 
-street I live on. There is a prize if you slack me the name of my road. 
+street I live on. There is a prize if you private slack me the name of my road. (not sure what the prize is, it might be rather rubbish )
 
 To run the program use: ruby mappy1.rb map1.txt
 
